@@ -1,4 +1,4 @@
-<h1>🧑‍💻 Gabriel França</h1>
+<h1>🧑🏻‍💻 Gabriel França</h1>
 
 ### 📌 Sobre mim
 
