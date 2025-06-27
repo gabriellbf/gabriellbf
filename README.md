@@ -64,14 +64,6 @@ Me chamo **Gabriel**, tenho 24 anos e estou cursando **Análise e Desenvolviment
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellbf&layout=compact&theme=dark&locale=pt-br"/>
 </p>
 
-
----
-
-### 📫 Onde me encontrar
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielbfrança/)
-[![Email](https://img.shields.io/badge/E--mail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gabbriel.barbosa1@gmail.com)
-
 ---
 
 <p align="center">
