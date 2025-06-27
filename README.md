@@ -1,4 +1,8 @@
-<h1 align="center">Olá! Eu sou o Gabriel França 👋</h1>
+<h1>🧑‍💻 Gabriel França</h1>
+
+### 📌 Sobre mim
+
+Me chamo **Gabriel**, tenho 24 anos e estou cursando **Análise e Desenvolvimento de Sistemas**. Sou apaixonado por desenvolvimento web e estou focado em me tornar um **desenvolvedor full stack**, começando pelo front-end. Atualmente, estudo HTML, CSS e JavaScript com foco em projetos práticos, como a [Landing Page da Psicóloga Jade](https://gabriellbf.github.io/psicologajade/).
 
 <p align="center">
   🚀 Desenvolvedor Front-End em formação<br>
@@ -45,15 +49,6 @@
 
 ---
 
-### 📚 Atualmente estudando
-
-- JavaScript
-- Lógica de programação
-- Fundamentos de front-end
-- Projetos com HTML/CSS
-
----
-
 ### 💼 Projetos em destaque
 
 - [Landing Page - Psicóloga Jade](https://github.com/gabriellbf/psicologajade)
@@ -62,23 +57,11 @@
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriellbf&show_icons=true&theme=tokyonight&locale=pt-br" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellbf&layout=compact&theme=tokyonight&locale=pt-br"/>
 </p>
+
 
 ---
 
