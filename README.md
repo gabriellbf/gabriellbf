@@ -47,6 +47,7 @@ Me chamo **Gabriel**, tenho 24 anos e estou cursando **Análise e Desenvolviment
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
+
 ---
 
 ### 💼 Projetos em destaque
