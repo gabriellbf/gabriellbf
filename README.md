@@ -61,15 +61,8 @@ Me chamo **Gabriel**, tenho 24 anos e estou cursando **Análise e Desenvolviment
 
 <p align="center">
   <img 
-    align="center" 
-    src="https://github-readme-stats.vercel.app/api?username=gabriellbf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" 
+    src="https://github-readme-stats.vercel.app/api?username=gabriellbf&show_icons=true&theme=dracula" 
     alt="Estatísticas do Gabriel" 
-  />
-  <br/>
-  <img 
-    align="center" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellbf&layout=compact&theme=dracula" 
-    alt="Linguagens mais usadas" 
   />
 </p>
 
