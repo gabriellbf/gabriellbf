@@ -66,6 +66,7 @@ Me chamo **Gabriel**, tenho 24 anos e estou cursando **Análise e Desenvolviment
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gabriellbf&style=flat" alt="Profile views" />
+  <img src="(https://github-readme-stats.vercel.app/api?gabriellbf=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+" />
 </p>
 
