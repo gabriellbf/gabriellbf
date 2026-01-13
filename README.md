@@ -64,7 +64,7 @@ Me chamo **Gabriel**, tenho 24 anos e estou cursando **Análise e Desenvolviment
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 10px;" 
+    style="padding-right: 8px;" 
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=gabriellbf&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
