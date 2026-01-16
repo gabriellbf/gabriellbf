@@ -2,7 +2,7 @@
 
 ### 📌 Sobre mim
 
-Me chamo **Gabriel**, tenho 24 anos e estou cursando **Análise e Desenvolvimento de Sistemas**. Sou apaixonado por desenvolvimento web e estou focado em me tornar um **desenvolvedor full stack**, começando pelo front-end. Atualmente, estudo HTML, CSS e JavaScript com foco em projetos práticos.
+Me chamo **Gabriel**, tenho 25 anos e estou cursando **Análise e Desenvolvimento de Sistemas**. Sou apaixonado por desenvolvimento web e estou focado em me tornar um **desenvolvedor full stack**, começando pelo front-end. Atualmente, estudo HTML, CSS e JavaScript com foco em projetos práticos.
 
 <p align="center">
   🚀 Desenvolvedor Front-End em formação<br>
