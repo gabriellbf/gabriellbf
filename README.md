@@ -53,6 +53,7 @@ Me chamo **Gabriel**, tenho 25 anos e estou cursando **Análise e Desenvolviment
 
 ### 💼 Projetos em destaque
 
+- [Agiliza Pneus](https://agilizapneus.com.br)
 - [Landing Page - Psicóloga Jade](https://github.com/gabriellbf/psicologajade)
 
 ---
